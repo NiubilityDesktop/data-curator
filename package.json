@@ -90,7 +90,7 @@
     "jsontableschema": "^0.2.3",
     "less": "^2.7.3",
     "less-loader": "^4.0.5",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.5",
     "markdown-it": "^8.4.0",
     "moment": "^2.19.1",
     "node-fs-extra": "^0.8.2",
